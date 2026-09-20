@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7fb;
+}
+
+header{
+    background-color: #1e3a8a;
+    color: white;
+    text-align: center;
+    padding:30px;
+}
+
+nav{
+    background-color: #172554;
+    text-align: center;
+    padding: 15px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 12px;
+}
+
+nav a:hover{
+    color: red;
+}
+
+section{
+    background-color: white;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h2{
+    color:#1e3a8a;
+}
+
+.img{
+    width: 50px;
+    border-radius: 50px;
+    display: block;
+    margin: 15px auto;
+}
