@@ -44,3 +44,29 @@
     display: inline;
     width: 50px;
 }
+
+/* ---------------------------------------------- */
+
+#main {
+    background-color: whitesmoke;
+    padding: 5px;
+    width: 100%;
+    overflow: auto;
+}
+
+#main div{
+    width: 33%;
+    float: left;
+}
+
+.b1{
+    background-color: yellow;
+}
+
+.b2{
+    background-color: pink;
+}
+
+.b3{
+    background-color: aqua;
+}
