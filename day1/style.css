@@ -1,0 +1,46 @@
+/* #nDiv1{
+    color: brown;
+}
+
+#nDiv2{
+    color: aqua;
+} */
+
+
+.box {
+    /* width: 50px; */
+    height: 50px;
+    border: 2px solid black;
+}
+
+.box1{
+    background-color: red;
+    width: 50px;
+}
+
+.box2{
+    background-color: blue;
+    width:100px;
+}
+.box3{
+    background-color: aqua;
+    width: 200px;
+}
+
+#container{
+    width: 100%;
+    height: 200px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+#myBox{
+    background-color: whitesmoke;
+    display: inline;
+    width: 50px;
+}
